@@ -1,0 +1,6 @@
+{
+  "name": "تله‌پلاس (IPTV Streamer Plus)",
+  "description": "طراحی اختصاصی پخش زنده‌ی پیشرفته‌ی شبکه‌های ماهواره‌ای و تلویزیونی به همراه پلیر پرقدرت چندکیفیتی و بدون نیاز به ابزار جانبی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
